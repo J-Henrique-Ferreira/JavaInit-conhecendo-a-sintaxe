@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../boilerplate-laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/pdo_php/src/Domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/php_PDO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/php_arrays_manipulando_colecoes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/php_arrays_strings_functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/php_poo_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/php_primeiros_passos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../php/relembrando-pdo" vcs="Git" />
+  </component>
+</project>
